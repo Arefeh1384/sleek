@@ -20,6 +20,7 @@ navigation: # Navigation links
   - {name: 'Home', link: '/'}
   - {name: 'books', link: '/books'}
   - {name: 'hobby', link: '/hobby'}
+  - {name: 'academiccalendar', link: '/academiccalendar'}
 
 tagline: >
   Modern Jekyll theme focused on speed performance &amp; SEO best practices
