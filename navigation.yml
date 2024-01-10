@@ -1,0 +1,5 @@
+main:
+  - title: "hobby"
+    url: /hobby/  
+  - title: "books"
+    url: /books/

@@ -15,7 +15,11 @@ social:
     - https://arefeh1384.github.io/
 
 
-
+# THEME SETTINGS
+navigation: # Navigation links
+  - {name: 'Home', link: '/'}
+  - {name: 'books', link: '/books'}
+  - {name: 'hobby', link: '/hobby'}
 
 tagline: >
   Modern Jekyll theme focused on speed performance &amp; SEO best practices
@@ -52,7 +56,8 @@ exclude:
   - gulpfile.js
   - sleek.jpg
 
-
+include: ['_pages']
+permalink: /:title/
 
 compress_html:
   clippings: all
