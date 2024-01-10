@@ -3,3 +3,5 @@ main:
     url: /hobby/  
   - title: "books"
     url: /books/
+  -title: "academiccalendar"
+    url: /academiccalendar/
