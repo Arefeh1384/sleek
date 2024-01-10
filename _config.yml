@@ -21,6 +21,7 @@ navigation: # Navigation links
   - {name: 'books', link: '/books'}
   - {name: 'hobby', link: '/hobby'}
   - {name: 'academiccalendar', link: '/academiccalendar'}
+  - {name: 'courses' , link: '/courses'}
 
 tagline: >
   Modern Jekyll theme focused on speed performance &amp; SEO best practices
